@@ -1,6 +1,5 @@
-package fat;
 
-public class fat23mic0047 {
+public class build {
 	public static void main(String[] args) {
 		 System.out.println("Student Name: Gnaneshwar Raja");
 		 System.out.println("Register Number: 23MIC0047");
